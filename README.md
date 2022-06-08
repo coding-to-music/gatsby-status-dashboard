@@ -2,10 +2,6 @@
 
 # 🚀 Javascript full-stack 🚀
 
-## MERN Stack
-
-### React / Express / MongoDB / TypeScript / Material UI / Coingecko API
-
 https://github.com/coding-to-music/gatsby-starter-graphql-playground
 
 https://gatsby-starter-graphql-playground.vercel.app
