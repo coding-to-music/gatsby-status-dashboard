@@ -20,7 +20,8 @@ CIRCLECI_KEY=your-key-goes-here
 
 SITE_URL=https://www.your-final-url.com
 SITE_TITLE=Your title
-SITE_DESCRIPTION=Your description
+SITE_DESCRIPTION=Your
+
 ```
 
 ## GitHub
