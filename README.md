@@ -15,7 +15,12 @@ https://github.com/LekoArts/gatsby-status-dashboard
 ## Environment variables:
 
 ```java
-none
+NETLIFY_ACCESS_KEY=your-key-goes-here
+CIRCLECI_KEY=your-key-goes-here
+
+SITE_URL=https://www.your-final-url.com
+SITE_TITLE=Your title
+SITE_DESCRIPTION=Your description
 ```
 
 ## GitHub
