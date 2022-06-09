@@ -19,9 +19,8 @@ NETLIFY_ACCESS_KEY=your-key-goes-here
 CIRCLECI_KEY=your-key-goes-here
 
 SITE_URL=https://www.your-final-url.com
-SITE_TITLE=Your title
-SITE_DESCRIPTION=Your
-
+SITE_TITLE="Your title"
+SITE_DESCRIPTION="Your Description"
 ```
 
 ## GitHub
