@@ -1,10 +1,10 @@
-# gatsby-starter-graphql-playground
+# gatsby-status-dashboard
 
 # 🚀 Javascript full-stack 🚀
 
-https://github.com/coding-to-music/gatsby-starter-graphql-playground
+https://github.com/coding-to-music/gatsby-status-dashboard
 
-https://gatsby-starter-graphql-playground.vercel.app
+https://gatsby-status-dashboard.vercel.app
 
 From / By https://github.com/LekoArts
 
@@ -26,7 +26,7 @@ git add .
 git remote remove origin
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:coding-to-music/gatsby-starter-graphql-playground.git
+git remote add origin git@github.com:coding-to-music/gatsby-status-dashboard.git
 git push -u origin main
 ```
 
