@@ -15,7 +15,7 @@ https://github.com/LekoArts/gatsby-status-dashboard
 ## Environment variables:
 
 ```java
-
+none
 ```
 
 ## GitHub
