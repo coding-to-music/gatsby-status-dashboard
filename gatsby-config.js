@@ -1,12 +1,15 @@
-require(`dotenv`).config()
+require(`dotenv`).config();
 
-const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
+const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 module.exports = {
   siteMetadata: {
-    siteUrl: process.env.SITE_URL || `https://status.lekoarts.de`,
-    siteName: process.env.SITE_TITLE || `Status Dashboard - LekoArts`,
-    siteDescription: process.env.SITE_DESCRIPTION || `Showing the statuses of my Netlify deploys & CircleCI tests.`,
+    siteUrl:
+      process.env.SITE_URL || `https://gatsby-status-dashboard.vercel.app`,
+    siteName: process.env.SITE_TITLE || `Status Dashboard - My Organization`,
+    siteDescription:
+      process.env.SITE_DESCRIPTION ||
+      `Showing the statuses of my Netlify deploys & CircleCI tests.`,
   },
   plugins: [
     // See the theme's README for all available components
@@ -38,4 +41,4 @@ module.exports = {
       },
     },
   ].filter(Boolean),
-}
+};
